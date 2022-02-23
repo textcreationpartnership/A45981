@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the confirmation of articles, made at the surrender of the city of Limerick</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45981</idno>
+            <idno type="STC">Wing I315</idno>
+            <idno type="STC">ESTC R475471</idno>
+            <idno type="EEBO-CITATION">18367662</idno>
+            <idno type="OCLC">ocm 18367662</idno>
+            <idno type="VID">107360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the confirmation of articles, made at the surrender of the city of Limerick</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Limerick, Treaty of, 1691.</term>
+               <term>Ireland --  History --  1691-</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107360:1"/>
+            <p>AN ACT FOR THE CONFIRMATION OF ARTICLES, Made at the SURRENDER OF THE City of Limerick.</p>
+            <figure/>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excellent Majeſty, on <hi>Cork-Hill,</hi> near <hi>Copper-Alley.</hi> MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act">
+            <pb facs="tcp:107360:2"/>
+            <pb n="3" facs="tcp:107360:2"/>
+            <head>An ACT for the Con<g ref="char:EOLhyphen"/>firmation of Articles, made at the Surrender of the City of <hi>Limerick.</hi> CHAP. XXVII.</head>
+            <p>WHEREAS divers Doubts have a<g ref="char:EOLhyphen"/>riſen, on the Articles made at the Treaty for the late Surrender of the City of <hi>Limerick,</hi> the Third Day of <hi>October,</hi> One thouſand Six hundred Ninety one, and con<g ref="char:EOLhyphen"/>cerning the true intent and meaning of ſeveral Parts thereof.</p>
+            <p>And whereas Your Majeſty hath beén Graci<g ref="char:EOLhyphen"/>ouſly pleaſed to Recommend to Your Parliament, that the ſaid Articles, or ſo much of them as may conſiſt with the Safety and Welfare of Your Majeſty's Subjects of this Kingdom, may be Confirmed by Authority of this preſent Parliament.</p>
+            <p>We the Lords Spiritual and Temporal, and the Commons in this preſent Parliament Aſ<g ref="char:EOLhyphen"/>ſembled, having due regard to Your Majeſty's Honour, for Declaring the true Senſe and Meaning of the ſaid Articles, and taking away all occaſions of Doubt for the time to come, do moſt humbly beſeéch Your Majeſty, that it may be Enacted.</p>
+            <p>And be it Enacted by the King's Moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, by, and with the Advice and
+<pb n="4" facs="tcp:107360:3"/>
+Conſent of the Lords Spiritual and Temporal and Commons in this preſent Parliament Aſ<g ref="char:EOLhyphen"/>ſembled, and by Authority of the ſame; that the Second Article in the aforeſaid Articles men<g ref="char:EOLhyphen"/>tioned, be, and is hereby Confirmed and Rati<g ref="char:EOLhyphen"/>fied, in the Senſe and Intendment following, and no otherwiſe (that is to ſay) That all the Inhabitants, or Reſidents of <hi>Limerick,</hi> or any other Garriſon in the Poſſeſſion of the <hi>Iriſh,</hi> at the time of making the ſaid Articles; and all Officers and Soldiers then in Arms, under any Commiſſion of the late King <hi>James,</hi> or thoſe Authorized by him to Grant the ſame, in the ſeveral Counties of <hi>Limerick, Clare, Kerry, Cork</hi> and <hi>Mayo,</hi> and all the Commiſſioned Of<g ref="char:EOLhyphen"/>ficers in the Quarters of His Majeſty, that belonged to the <hi>Iriſh</hi> Regiments then in being, that were Treated with, and who were not Priſoners of War, nor had at any time before that time Enjoyed the Benefit of Protections for the Safety of themſelves, or their Goods and Families; which ſaid Officers have in purſu<g ref="char:EOLhyphen"/>ance of the ſaid Articles, Returned to Their Obedience, and Submitted to His Majeſty, and to Her late Majeſty Queén <hi>Mary:</hi> Such In<g ref="char:EOLhyphen"/>habitants, or Reſidents of <hi>Limerick,</hi> or any o<g ref="char:EOLhyphen"/>ther Garriſon, as aforeſaid; ſuch Officers and Soldiers reſpectively, as aforeſaid, and their, and every of their Heirs, ſhall Hold, Poſſeſs and Enjoy, all and every their Eſtates of Freé-hold and Inheritance, and all the Rights, Titles, and Intereſts, Priviledges, and Immunities to the ſaid Eſtates of Freé-hold and Inheritance belonging, which they, and every, or any of them Held, Enjoyed, or were Rightfully and Lawfully Intituled to, in the Reign of King
+<pb n="5" facs="tcp:107360:3"/>
+               <hi>Charles</hi> the Second, or at any time ſince, by the Laws and Statutes that were in Force in the ſaid Reign of King <hi>Charles</hi> the Second, and ſuch Poſſeſſion as was given the ſaid In<g ref="char:EOLhyphen"/>habitants, Officers and Soldiers, in whoſe be<g ref="char:EOLhyphen"/>half the ſaid Articles were, as aforeſaid, made, of Lands then in His Majeſty's Hands, or in the Hands of His Tenants, by Order of the then Government under His Majeſty, is as to the Poſſeſſion only, and no more, Confirmed and Ratified by the Authority of this Act, againſt His Majeſty, His Heirs and Succeſſors, and all ſuch Eſtates of Freé-hold and Inheritance ſhall be Freéd and Diſcharged; and by the Autho<g ref="char:EOLhyphen"/>rity of this preſent Act, are Declared and Enacted, to be, and ſtand Freéd and Diſcharged of, and from all Arrears of Crown-Rents, Quit-Rents, and other Publick Charges, Incurred, or be<g ref="char:EOLhyphen"/>come Due, from, and after the Feaſt of Saint <hi>Michael</hi> the Arch-Angel, in the Year of our Lord, One thouſand Six hundred Eighty eight, to the Day of the Date of the ſaid Articles.</p>
+            <p>Provided always, and be it Enacted by the Authority aforeſaid, That this Act, or any thing therein contained, ſhall not Extend, or be Con<g ref="char:EOLhyphen"/>ſtrued to Extend to a Grant of any new Right to the aforeſaid Perſons, in whoſe behalf the aforeſaid Articles were made, or any of them; but that the ſame ſhall Extend, and be Conſtru<g ref="char:EOLhyphen"/>ed to Extend to the Reſtoring the ſaid Perſons, and every of them, to their ſaid Eſtates of Freé-hold and Inheritance, againſt His Majeſty, His Heirs and Succeſſors, in as large and ample manner as they ſhould have Enjoyed the ſame, had they not beén Guilty of the Rebellion, afore<g ref="char:EOLhyphen"/>ſaid, and not otherwiſe, or in any other man<g ref="char:EOLhyphen"/>ner;
+<pb n="6" facs="tcp:107360:4"/>
+neither ſhall this Act Extend, or be conſtru<g ref="char:EOLhyphen"/>ed to Extend, to alter or avoid the Poſſeſſion of any ſuch Lands, Tenements, or Hereditaments, as have been Recovered or Gained by any other of His Majeſty's Subjects, from, or againſt the ſaid perſons in whoſe behalf the ſaid Articles were made, or any of them, at any time ſince the Date of the ſaid Articles, any thing in this Act to the contrary notwithſtanding.</p>
+            <p>And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That all and every perſon, and perſons Comprehended in the ſaid Second Article, in the ſaid Articles mentioned, ſhall have, hold and en<g ref="char:EOLhyphen"/>joy, all his and their Goods, and Chattels, Real and Perſonal, to them or any of them, at the time of making the ſaid Articles, belonging, and which then, or at that time remained ei<g ref="char:EOLhyphen"/>ther in their own Hands, or in the Hands of any other perſon or perſons whatſoever in Truſt for them, or for the Vſe of them, or any of them; and the ſaid Goods and Chattels, Real and Per<g ref="char:EOLhyphen"/>ſonal, as aforeſaid, ſhall have, hold and enjoy againſt His Majeſty, His Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors: And as for, and concerning all other the Goods and Chattels, Real and Perſonal, which formerly did belong to, or were the Pro<g ref="char:EOLhyphen"/>priety of any of the ſaid perſons Comprehended within the ſaid Articles, as aforeſaid, at any time before the Date of the ſaid Articles, which ſaid Goods and Chattels, Real and Perſonal, had beén at any time ſince the Tenth day of <hi>April,</hi> One thouſand Six hundred Eighty nine, and before the Date of the ſaid Articles, Sei<g ref="char:EOLhyphen"/>zed, Sequeſtred, or by any manner of way taken to the uſe of His Majeſty, and Her ſaid late Majeſty the Queén, by any Sheriff,
+<pb n="7" facs="tcp:107360:4"/>
+Eſcheator, Commiſſioner, Officer, Civil or Mi<g ref="char:EOLhyphen"/>litary, their Miniſters or Servants, or any other perſon or perſons whatſoever; and all other the Goods and Chattels of the ſaid perſons, which were not in their own poſſeſſion, or in the poſſeſ<g ref="char:EOLhyphen"/>ſion of any perſon or perſons, as aforeſaid, in Truſt for them, at the Day of the making the ſaid Arti<g ref="char:EOLhyphen"/>cles, the ſame by the Authority of this Act, ſhall be Deémed, Veſted and Adjudged to be in the actual and real poſſeſſion of His Majeſty, without any Office or Inquiſition thereof hereafter to be found or taken.</p>
+            <p>Saving to all and every perſon and perſons, Bodies-Politick and Corporate, and to their Suc<g ref="char:EOLhyphen"/>ceſſors, Executors Adminiſtrators and Aſſigns, and to the Succeſſors, Executors, Adminiſtrators, and Aſſigns of every of them, other then the ſaid perſons in whoſe behalf the ſaid Articles were made, and their Executors, Adminiſtrators and Aſſigns, Claiming any thing in the ſaid Goods and Chattels, xeal and Perſonal or any part thereof, as Executors, Adminiſtrators, or Aſſigns of the ſaid perſons, in whoſe behalf the ſaid Articles were made, or any of them, and all and every other perſon or perſons Clai<g ref="char:EOLhyphen"/>ming, or having any thing in the ſaid Goods and Chattels, Real or Perſonal, as aforeſaid, Seized, Sequeſtred, or by any manner of way taken to the uſe of His Majeſty, as afore<g ref="char:EOLhyphen"/>ſaid, to the uſe of the Perſons in whoſe be<g ref="char:EOLhyphen"/>half the ſaid Articles were made, or any of them, or to the uſe of any of their Executors and Ad<g ref="char:EOLhyphen"/>miniſtrators; all ſuch Right, Title, Intereſt, Poſſeſſion. Vſe, Action and Means to recover the ſame, whatſoever, which they or any of them had, or ought to have, in the Premiſes, or any part
+<pb n="8" facs="tcp:107360:5"/>
+thereof, againſt the ſaid perſons, in whoſe be<g ref="char:EOLhyphen"/>half the ſaid Articles were made, or any of them, in as large and ample manner to all intents and purpoſes, as if this Act had never beén had or made, or any thing herein contained to the contrary notwitſtanding.</p>
+            <p>Provided always, That this Act, or any thing therein contained, ſhall not extend to avoid any Grant or Grants at any time heretofore made by His Majeſty, and the late Queén (of bleſſed Memory) or by His Majeſty of any ſuch Goods and Chattles, Real or Perſonal, hereby intend<g ref="char:EOLhyphen"/>ed to be Veſted in His Majeſty, as aforeſaid, but that ſuch Grant and Grants reſpectively ſhall be and remain in ſuch Force and Effect, as if this Act had not beén made.</p>
+            <p>Provided always, and be it Enacted by the Authority aforeſaid, That no perſon or perſons ſhall be conſtrued, to be reſtored within the In<g ref="char:EOLhyphen"/>tent and Meaning of the ſaid Articles, or of this Act, who at the time of their hearing their reſpective Claims to the Benefit of the ſaid Articles, ſhall neglect or refuſe to take the Oaths of Fidelity to His Majeſty, mentioned in the ſaid Articles; nor to reſtore ſuch who at the time of making of the ſaid Articles, was, or were out of the Kingdom of <hi>Ireland,</hi>
+            </p>
+            <p>Except ſuch perſons as are Comprized in the Fourth Article of the ſaid Articles, made for the late Surrender of <hi>Limerick,</hi> which ſaid per<g ref="char:EOLhyphen"/>ſons, in the ſaid Fourth Article Comprized, ſhall have the Benefit of the ſaid Second Article, in ſuch manner and form as in and by this Act is, as aforeſaid, Declared, and no otherwiſe.</p>
+            <p>Provided the ſaid perſons in the ſaid Fourth Article, named, reſpectively did return hither
+<pb n="9" facs="tcp:107360:5"/>
+within the ſpace of Eight Months, from the Date of the ſaid Articles, and have within that time Submitted to the Government of His Majeſty, and Her late Majeſty the late Queén; and alſo within that time taken the Oath of Al<g ref="char:EOLhyphen"/>legiance to His Majeſty, and Her late Majeſty the Queén.</p>
+            <p>Be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all Merchants, or reputed Merchants, Inhabitants of the Town of <hi>Limerick,</hi> or of any other Gariſon which at the time of making the ſaid Articles, was poſſeſſed by the <hi>Iriſh,</hi> or of any Town or Place in the Counties of <hi>Clare</hi> or <hi>Kerry,</hi> who were abſent beyond the Seas, and that have not beén in Arms ſince the Declaration made by His Majeſty, and Her late Majeſty Queén <hi>Mary,</hi> in <hi>February,</hi> One thouſand Six hun<g ref="char:EOLhyphen"/>dred Eighty eight, ſhall have the Benefit of the Second Article, in manner and form aforeſaid, Declared, in as large and ample manner, as if ſuch Merchants, or reputed Merchants, had beén preſent at the making of the ſaid Articles.</p>
+            <p>Provided ſuch Merchants, or reputed Mer<g ref="char:EOLhyphen"/>chants, did repair into this Kingdom within the ſpace of Eight Mouths from the Date of the ſaid Articles, and ſubmitted himſelf, or themſelves to His Majeſty, and Her late Majeſty's Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And be it Enacted by the Authority aforeſaid, That all and ſingular the perſons already Ad<g ref="char:EOLhyphen"/>judged, or that ſhall hereafter be Adjudged to have beén Comprized within the Second and Third Articles, of the aforeſaid Articles of <hi>Li<g ref="char:EOLhyphen"/>merick,</hi> ſhall from henceforth be deémed and ta<g ref="char:EOLhyphen"/>ken to be, as to any Proſecution, in the Name and Behalf of His Majeſty, and of Her late Majeſty,
+<pb n="10" facs="tcp:107360:6"/>
+or in the Name and Behalf of His Majeſty, His Heirs and Sueceſſors, fully and abſolutely Par<g ref="char:EOLhyphen"/>doned by the Authority of this Act, of all Attain<g ref="char:EOLhyphen"/>ders or Out-Lawries in this Kingdom, had or done, for all Treaſons, Miſpriſions of Treaſons, Premunires, Felonies, Treſpaſſes and other Crimes or Miſdemeanors whatſoever, by them, or any of them, committed or done ſince the be<g ref="char:EOLhyphen"/>ginning of the Reign of the late King <hi>James,</hi> to the Third Day of <hi>October</hi> One thouſand Six hundred Ninety one.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That from and after the Expiration of Two Years, to be computed from the Firſt Day of <hi>September</hi> One thouſand Six hundred Ninety ſeaven, no perſon or perſons whatſoever, ſhall be Adjudged, Deémed, or taken to be Inti<g ref="char:EOLhyphen"/>tuled to, or have the Benefit of the ſaid Articles, who ſhall not be adjudged within that time to be Comprehended therein.</p>
+            <p>And whereas ſome Queſtions or Doubts have ariſen, for, and concerning the time of the be<g ref="char:EOLhyphen"/>ginning of the Rebellion, or War in this King<g ref="char:EOLhyphen"/>dom, Be it Enacted by the Authority aforeſaid, That the ſaid Rebellion, or War, is hereby De<g ref="char:EOLhyphen"/>clared to have begun upon the Tenth Day of <hi>April,</hi> One thouſand Six hundred Eighty nine, the ſame being the Day limitted to the ſaid Re<g ref="char:EOLhyphen"/>bells and Traytors by His Majeſty, and Her late Majeſty's Declaration, in <hi>February</hi> One thouſand Six hundred Eighty eight for the ſaid Rebells and Traytors laying down of their Arms, and accepting of Their ſaid Majeſties Grace and Mercy, on the Terms in the ſaid De<g ref="char:EOLhyphen"/>claration propoſed.</p>
+            <p>And that no perſon or perſons whatſoever,
+<pb n="11" facs="tcp:107360:6"/>
+already adjudged, or that ſhall be hereafter ad<g ref="char:EOLhyphen"/>judged, to be Comprehended in the foregoing Ar<g ref="char:EOLhyphen"/>ticles, ſhall be Sued, Moleſted, or Impleaded at to the Sute of any Party or Parties whatſoever, for any Treſpaſſes by the ſaid perſons, as afore<g ref="char:EOLhyphen"/>ſaid Comprized, committed or done any time ſince the ſaid Tenth of <hi>April</hi> One thouſand Six hundred Eighty nine, and before the Date of the ſaid Articles, for any Arms, Horſes, Money, Goods, Chattels, Merchandizes, or Proviſions whatſoever, by them ſeized or taken at any time after the ſaid Tenth Day of <hi>April</hi> One thou<g ref="char:EOLhyphen"/>ſand Six hundred Eighty nine, and before the Date of the ſaid Articles; and no perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever, in the Second or Third Arti<g ref="char:EOLhyphen"/>cles Comprized, ſhall be Sued, Impleaded, or made accountable for the Rents or Meſne-rates of any Lands, Tenements, or Houſes by him or them received or enjoyed in this Kingdom, ſince the ſaid Tenth Day of <hi>April</hi> One thouſand Six hundred Eighty nine, to the Day of the Date of the ſaid Articles, nor for any Waſte or Treſpaſs, by him or them committed in any ſuch Lands, Tenements or Houſes, ſince the ſaid Tenth Day of <hi>April</hi> One thouſand Six hun<g ref="char:EOLhyphen"/>dred Eighty nine, and before the Date of the ſaid Articles.</p>
+            <p>And whereas it is neceſſary that a time be limitted for the bringing of the ſaid privat A<g ref="char:EOLhyphen"/>ctions, for, or on account of ſuch Wrongs, In<g ref="char:EOLhyphen"/>juries and Treſpaſſes, as aforeſaid, committed or done by any perſon or perſons Comprehended, or Claiming the Benefit of the ſaid Articles ſince the ſaid Fifth Day of <hi>November</hi> One thouſand Six hundred Eighty eight, to the ſaid Tenth Day of <hi>April</hi> One thouſand Six hundred Eighty nine.</p>
+            <p>
+               <pb n="12" facs="tcp:107360:7"/>Be it Enacted by the Authority aforeſaid, That it ſhall and may be Lawful, to, and for ſuch perſon and perſons as have had any Wrongs, Injuries and Treſpaſſes committed upon them, by any of the perſons aforeſaid, ſince the ſaid Fifth Day of <hi>November</hi> One thouſand Six hundred Eighty eight, and before the ſaid Tenth Day of <hi>April</hi> One thouſand Six hundred Eighty nine, to commence his or their Action or Actions againſt ſuch Treſpaſſer or Treſpaſſers, Wrong-doer or Wrong-doers, at any time within the ſpace of One Year, to be accounted from the ſaid Firſt Day of <hi>September</hi> One thouſand Six hundred Ninety ſeaven, and at no other time or times af<g ref="char:EOLhyphen"/>ter the expiration of the ſaid Year, any Law or Statute to the contrary notwithſtanding.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
